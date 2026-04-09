@@ -1,0 +1,26 @@
+{
+  "version": "2.6.1-RC1",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Peter-e-m",
+    "description": "make a data flow diagram (DFD) for the system. For this you need to use\nOWASP Threat Dragon (OWASP Threat Dragon | OWASP Foundation)1. You can\neither run it online or install a client locally. For the components in your diagram,\nadd threats according to STRIDE and a description. There should be at least 10\nthreats in total, and at least two of these should be related to the AI-based face\nrecognition. Add trust boundaries as you see fit. ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.1-RC1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "KasperLie",
+    "threatTop": 0
+  }
+}
