@@ -2,14 +2,25 @@
   "version": "2.6.1-RC1",
   "summary": {
     "title": "New Threat Model",
-    "owner": "",
+    "owner": "Peter",
     "description": "",
     "id": 0
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "test1",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.1-RC1",
+        "cells": [],
+        "description": "TEst1"
+      }
+    ],
+    "diagramTop": 1,
     "reviewer": "",
     "threatTop": 0
   }
